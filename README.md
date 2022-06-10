@@ -1,3 +1,6 @@
+*Ceci est une traduction française de Floating IPS, réalisée par SombrAbsol.*
+*Actuellement, la traduction est entièrement opérationnelle pour Windows uniquement. Si vous utilisez un autre système d'exploitation qui est pris en charge par Floating IPS, votre aide serait la bienvenue !* :p
+
 Floating IPS (or Flips) is a patcher for IPS and BPS files, aiming for a simple interface yet plenty of power under the hood.
 
 Features:
